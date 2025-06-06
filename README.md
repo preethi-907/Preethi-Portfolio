@@ -7,5 +7,7 @@ Technologies
 Contact
 
 Email: preethiramesh907@gmail.com
+
 GitHub: github.com/Preethi-Portfolio
+
 Thank you for visiting my portfolio!
